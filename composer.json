@@ -1,6 +1,6 @@
 {
-    "name": "gregoriohc/laravel-nova-theme-responsive",
-    "description": "A Laravel Nova responsive theme.",
+    "name": "savami/laravel-nova-theme-responsive",
+    "description": "Forked from gregoriohc/laravel-nova-theme-responsive",
     "type": "library",
     "homepage": "https://github.com/gregoriohc/laravel-nova-theme-responsive",
     "authors": [
